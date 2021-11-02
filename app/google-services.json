@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1055591620986",
+    "firebase_url": "https://ultimate-bit-305306-default-rtdb.firebaseio.com",
+    "project_id": "ultimate-bit-305306",
+    "storage_bucket": "ultimate-bit-305306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055591620986:android:5aa3c9f2a463293efcb6c3",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055591620986-mnma94q2hgd7qdlbts0pv15c93ufcumq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-NqokUisnA40zBjws466HqY6244vTCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055591620986-mnma94q2hgd7qdlbts0pv15c93ufcumq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055591620986:android:93f42bf8eea0d476fcb6c3",
+        "android_client_info": {
+          "package_name": "com.example.patientmonitoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055591620986-mnma94q2hgd7qdlbts0pv15c93ufcumq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-NqokUisnA40zBjws466HqY6244vTCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055591620986-mnma94q2hgd7qdlbts0pv15c93ufcumq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
